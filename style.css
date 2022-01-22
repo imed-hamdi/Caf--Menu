@@ -1,0 +1,92 @@
+@import url('https://fonts.googleapis.com/css2?family=Mochiy+Pop+P+One&family=Neonderthaw&display=swap');
+body{
+background-image: url("./images/Cafe-BG.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+background-attachment: fixed;
+}
+h1{
+font-family: "Neonderthaw";
+font-size:5vw;
+color: bisque;
+text-align: center;
+}
+section{
+    margin: auto auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+.cafe{
+    width: 350px;
+    height: 300px;
+    border: 1px white solid ;
+    margin: 1vw;
+    border-radius: 10px;
+    position: relative;
+}
+h3{
+    text-align: center;
+    font-family: "Mochiy Pop P One";
+    margin-top: 20%;
+    color: rgb(78, 16, 5);
+}
+.Espresso{
+    background-image: url(./images/espresso.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Ristretto{
+    background-image: url(./images/ristretto.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Lungo{
+    background-image: url(./images/Cafe-lungo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Guillermo{
+    background-image: url(./images/Guillermo.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Latte{
+    background-image: url(./images/Latte.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Macchiato{
+    background-image: url(./images/Macchiato.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.Viennois{
+    background-image: url(./images/cafe-viennois.webp);
+    background-size: cover;
+    background-repeat: no-repeat;  
+}
+#overlay p {
+text-align: center;
+font-family:"Mochiy Pop P One" ;
+padding: 1vw;
+
+}
+#overlay{
+height: 50%;
+background-color: burlywood;
+width: 0;
+position: absolute;
+overflow: hidden;
+right: 0;
+transition: 0.15s linear;
+}
+.cafe:hover #overlay {
+    width: 100%; 
+    right: 0%;
+
+}
+.cafe:hover h3{
+   transform:scale(1.1)
+}
+

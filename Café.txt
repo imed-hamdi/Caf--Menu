@@ -1,0 +1,32 @@
+Espresso
+
+*L'espresso est un type de café célèbre d'Italie. Le produit final est un café épais avec une mousse crémeuse sur le dessus.
+
+
+Ristretto
+
+*Il s'agit d'un Espresso préparé avec la même quantité de café mais la moitié de la quantité d'eau.
+
+
+Lungo
+
+*Le Lungo, ou café allongé, est l'opposé au Ristretto. Cette boisson est faite avec plus d'eau.
+
+
+Guillermo
+
+*Deux coups d'espresso chaud versés sur des tranches de citron vert, parfois servis sur de la glace.
+
+
+Latte
+
+*Espresso fait avec du lait cuit à la vapeur dans un rapport 1: 3 à 1: 5 avec un peu de mousse.
+
+
+Macchiato
+
+*Un espresso fait avec une petite quantité de lait moussé, semblable à un cappuccino seulement plus fort
+
+Café Viennois
+
+*Café ou expresso à base de crème fouettée avec du lait ajouté à certaines occasions.
